@@ -11,12 +11,12 @@ Ok, so you're bringing your own computer for this class.  It's important, since 
 **N.B.** Think deeply about implementing a nice clean start.  Clearing off your computer and reinstalling the newest operating system is not only cathartic, but a great way to make sure everything works well together.
 
 1. RVM, Ruby, Rails: 
-		a. In terminal run (*and don't ignore the backslash!*)`$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`.  
+		- In terminal run (*and don't ignore the backslash!*)`$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`.  
 		This will install [Ruby Version Manager](https://rvm.io) as well as the current stable version of [Ruby](https://www.ruby-lang.org/en/).  
 		Test that things are working by typing `$ irb` and making sure you're inside a ruby command line.
-				- Should look like `2.1.2 :001 >` 
-				- Type `puts 3 + 5` and you should get `8 => nil` back.  Good?  Good.
-		b. Now run `$ gem install rails`  
+				* Should look like `2.1.2 :001 >` 
+				* Type `puts 3 + 5` and you should get `8 => nil` back.  Good?  Good.
+		- Now run `$ gem install rails`  
 		Test that this is working by typing `$ rails new app`  
 		It's working if you get a million lines of `create ...` followed by another million lines of `Using ...`.  
 		You can now delete the app by typing `$ rm -rf app`.
