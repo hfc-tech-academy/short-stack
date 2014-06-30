@@ -11,7 +11,9 @@ Ok, so you're bringing your own computer for this class.  It's important, since 
 **N.B.** Think deeply about implementing a nice clean start.  Clearing off your computer and reinstalling the newest operating system is not only cathartic, but a great way to make sure everything works well together.
 
 1. RVM, Ruby, Rails: 
+
 In terminal run `$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`
+
 2. Things.
 
 ### Set up your life
