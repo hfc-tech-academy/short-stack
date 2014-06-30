@@ -11,23 +11,25 @@ Ok, so you're bringing your own computer for this class.  It's important, since 
 **N.B.** Think deeply about implementing a nice clean start.  Clearing off your computer and reinstalling the newest operating system is not only cathartic, but a great way to make sure everything works well together.
 
 1. RVM, Ruby, Rails: 
-	a. In terminal run (*and don't ignore the backslash!*)`$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`. 
-	This will install [https://rvm.io](Ruby Version Manager) as well as the current stable version of  [https://www.ruby-lang.org/en/](Ruby).  
-	Test that things are working by typing `$ irb` and making sure you're inside a ruby command line.  Should look like `2.1.2 :001 >`.  Type `puts 3 + 5` and you should get `8 => nil` back.  Good?  Good.
+	a. In terminal run (*and don't ignore the backslash!*)`$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`.  
+	This will install [Ruby Version Manager](https://rvm.io) as well as the current stable version of [Ruby](https://www.ruby-lang.org/en/).  
+	Test that things are working by typing `$ irb` and making sure you're inside a ruby command line.
+	- Should look like `2.1.2 :001 >` 
+	- Type `puts 3 + 5` and you should get `8 => nil` back.  Good?  Good.  
 	b. Now run `$ gem install rails`  
 	Test that this is working by typing `$ rails new app`  
 	It's working if you get a million lines of `create ...` followed by another million lines of `Using ...`.  
 	You can now delete the app by typing `$ rm -rf app`.
-2. Javascript: Go to [http://nodejs.org/](nodejs) and install the latest package.  
-3. Editor: We'll use [http://macromates.com/download](Textmate) during the course.  It's flexible, free, and terrific.
-4. Chat: We'll use [http://hipchat.com](Hipchat) for class purposes.  It's a nice little chat package that you can run on any platform, and it's a great way to get my attention.
+2. Javascript: Go to [nodejs](http://nodejs.org/) and install the latest package.  
+3. Editor: We'll use [Textmate](http://macromates.com/download) during the course.  It's flexible, free, and terrific.
+4. Chat: We'll use [Hipchat](http://hipchat.com) for class purposes.  It's a nice little chat package that you can run on any platform, and it's a great way to get my attention.
 
 
 ### Set up your life
 Here's a list of things you'll need to have an account for during the course of the course:
 
-- [https://github.com/](github)
-- [http://www.tumblr.com/](tumblr)
+- [github](https://github.com/)
+- [tumblr](http://www.tumblr.com/)
 
 
 
@@ -35,9 +37,9 @@ Here's a list of things you'll need to have an account for during the course of 
 Git is all about version control.  You'll be working on large projects, and some days you'll write hundreds of lines of code.  Sometimes that code will break and you'll need to go back to a working version.
 
 The following three resources are a great introduction to Git:
-- https://try.github.io/levels/1/challenges/1
-- http://git-scm.com/book
-- http://vimeo.com/16395537
+- [](https://try.github.io/levels/1/challenges/1)
+- [](http://git-scm.com/book)
+- [](http://vimeo.com/16395537)
 
 ### HTML
 
