@@ -12,7 +12,7 @@ Ok, so you're bringing your own computer for this class.  It's important, since 
 
 1. RVM, Ruby, Rails: 
 
-	In terminal run `$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`
+	a. In terminal run `$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`
 
 2. Things.
 
