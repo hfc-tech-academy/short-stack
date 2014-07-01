@@ -19,7 +19,13 @@ If you set the user.email to the email address registered to your (or your partn
 
 This will set the local origin and then push the current master to it.  Congrats!  You've got your green box, and you have setup version control.  Every time you want to update the master to include your recent changes just type `git add -A` and `git commit -m "description"` and the local version will update.  A simple `git push` will update the remote repository.
 
-##### But what about the second author?
-Everyone doing work for the day deserves a few commits, right?  Here's the command that will work for the second author.  Remember to replace the relevant information in the command.
+<!-- ##### But what about the second author?
+Everyone doing work for the day deserves a few commits, right?  There's a couple of steps to do here.
 
-		git filter-branch -f --env-filter "GIT_AUTHOR_NAME='your_full_name'; GIT_AUTHOR_EMAIL='your_email'; GIT_COMMITTER_NAME='your_full_name'; GIT_COMMITTER_EMAIL='your_email';" HEAD
+1. The second author needs to create a repository, as above, on github.
+2. Then, you'll follow the `git remote add ...`, changing `origin` to another name.  Perhaps `origintwo`.  This is because you're only allowed to have one remote for each and every name.
+3.
+
+Here's the command that will work for the second author.  Remember to replace the relevant information in the command.
+
+		git filter-branch -f --env-filter "GIT_AUTHOR_NAME='your_full_name'; GIT_AUTHOR_EMAIL='your_email'; GIT_COMMITTER_NAME='your_full_name'; GIT_COMMITTER_EMAIL='your_email';" HEAD -->
