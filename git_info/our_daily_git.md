@@ -29,3 +29,5 @@ Everyone doing work for the day deserves a few commits, right?  There's a couple
 Here's the command that will work for the second author.  Remember to replace the relevant information in the command.
 
 		git filter-branch -f --env-filter "GIT_AUTHOR_NAME='your_full_name'; GIT_AUTHOR_EMAIL='your_email'; GIT_COMMITTER_NAME='your_full_name'; GIT_COMMITTER_EMAIL='your_email';" HEAD -->
+
+<!-- NOTE TO SELF: Play with https://github.com/roylines/gits -->
