@@ -41,4 +41,4 @@ The following three resources are a great introduction to Git:
 - [Git in Action](http://vimeo.com/16395537)
 
 ### HTML & CSS
-Go to the [HTML & CSS]() Curriculum, and do the Preweekend assignments before showing up.
+Go to the [HTML & CSS](https://github.com/hfc-tech-academy/html_css) Curriculum, and do the Preweekend assignments before showing up.
