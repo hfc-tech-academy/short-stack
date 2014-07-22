@@ -8,14 +8,14 @@ Here's a list of things to do.  Each assignment is pretty short, but they will h
 ### Set up your computer
 Ok, so you're bringing your own computer for this class.  It's important, since you're going to be doing so much work outside of class, to make sure you are set up correctly to work efficiently from day 1. (and before, in order to do the appropriate homework!)
 
-**N.B.** Think deeply about implementing a nice clean start.  Clearing off your computer and reinstalling the newest operating system is not only cathartic, but a great way to make sure everything works well together.
+**N.B.** Think deeply about implementing a *nice clean start*.  Clearing off your computer and reinstalling the newest operating system is not only cathartic, but a great way to make sure everything works well together.
 
 1. RVM, Ruby, Rails:  
 	1. In terminal run (*mind the backslash!*) `$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`.  
 		This will install [Ruby Version Manager](https://rvm.io) as well as the current stable version of [Ruby](https://www.ruby-lang.org/en/).  
 		Test that things are working by typing `$ irb` and making sure you're inside a ruby command line.  
 		It should look like `2.1.2 :001 >`.  Type `puts 3 + 5` and you should get `8 => nil` back.  Good?  Good.  
-	2. Now run `$ gem install rails`  
+    2. Now run `$ gem install rails`  
 		Test that this is working by typing `$ rails new app`  
 		It's working if you get a million lines of `create ...` followed by another million lines of `Using ...`.  
 		You can now delete the app by typing `$ rm -rf app`.
@@ -40,5 +40,21 @@ The following three resources are a great introduction to Git:
 - [Pro Git](http://git-scm.com/book)
 - [Git in Action](http://vimeo.com/16395537)
 
-### HTML & CSS
-Go to the [HTML & CSS](https://github.com/hfc-tech-academy/html_css) Curriculum, and do the Preweekend assignments before showing up.
+# And now, the prep-work
+
+## HTML
+HTML in a bubble (sans styling) is a funny beast.  It'll look terrible, but it's important to know all of the semantic elements.  Go through HTML Dog's beginner [html tutorial](http://www.htmldog.com/guides/html/beginner/) to get an idea of the elements you'll be using.
+
+## CSS
+CSS is everything good about page design.  So much magic happens here, and with a fair amount of practice you can clone nearly any design out there.  HTML Dog also has a beginner [css tutorial](http://www.htmldog.com/guides/css/beginner/).  Run through it and enjoy your new life as an artist.
+
+## JavaScript & jQuery 
+CSS has a few limitations.  There are [pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) which allow you to get a lot of interactivity with plain HTML/CSS, but if you want your sites to truly be alive you're going to have to use something else.  jQuery will be your workhorse, but you'll still have to do a little 'straight programming' via JavaScript.  
+
+For both, you should run through the [JavaScript](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery) tracks at Code Academy.
+
+## Ruby
+Since the goal of the course is to create websites using Rails, you're going to have to understand the syntax used by Ruby.  Ruby is a terrific first language, it's very expressive and readable.  Before we start the course, you should work through the [Ruby Primer](https://rubymonk.com/learning/books/1-ruby-primer) on [rubymonk](https://rubymonk.com/).
+
+## Rails
+Many people will suggest many things to get familiar with Rails.  There's no quick and easy answer, since there's so many moving parts.  We're eventually going to do the amazing [Hartl Tutorial](http://www.railstutorial.org/), but I feel the correct 'first tutorial' is found at [Rails Girls](http://guides.railsgirls.com/).  Do 1-11 under "Welcome to Rails Girls" before you show up.
