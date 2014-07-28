@@ -43,18 +43,34 @@ The following three resources are a great introduction to Git:
 # And now, the prep-work
 
 ## HTML
+#### Base
 HTML in a bubble (sans styling) is a funny beast.  It'll look terrible, but it's important to know all of the semantic elements.  Go through HTML Dog's beginner [html tutorial](http://www.htmldog.com/guides/html/beginner/) to get an idea of the elements you'll be using.
+#### Bonus
+Work through [Code School's Front End Formations](https://www.codeschool.com/courses/front-end-formations) for a good overview of HTML and CSS.
 
 ## CSS
+#### Base
 CSS is everything good about page design.  So much magic happens here, and with a fair amount of practice you can clone nearly any design out there.  HTML Dog also has a beginner [css tutorial](http://www.htmldog.com/guides/css/beginner/).  Run through it and enjoy your new life as an artist.
+#### Bonus
+As usual, [Code School's CSS Cross Country](https://www.codeschool.com/courses/css-cross-country) is a lovely way to learn.
+
 
 ## JavaScript & jQuery 
+#### Base
 CSS has a few limitations.  There are [pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) which allow you to get a lot of interactivity with plain HTML/CSS, but if you want your sites to truly be alive you're going to have to use something else.  jQuery will be your workhorse, but you'll still have to do a little 'straight programming' via JavaScript.  
 
-For both, you should run through the [JavaScript](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery) tracks at Code Academy.
+For both, you should run through the [JavaScript](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery) tracks at Code Academy.  Also check out the [JavaScript Beginner Tutorial](http://www.htmldog.com/guides/javascript/beginner/) on HTML dog.
+#### Bonus
+Read through and play with [A Reintroduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) and [Code School's Try Query](https://www.codeschool.com/courses/try-jquery).
 
 ## Ruby
+#### Base
 Since the goal of the course is to create websites using Rails, you're going to have to understand the syntax used by Ruby.  Ruby is a terrific first language, it's very expressive and readable.  Before we start the course, you should work through the [Ruby Primer](https://rubymonk.com/learning/books/1-ruby-primer) on [rubymonk](https://rubymonk.com/).
+#### Bonus
+Work through the [Ruby Koans](http://rubykoans.com/).  They're neat.
 
 ## Rails
+#### Base
 Many people will suggest many things to get familiar with Rails.  There's no quick and easy answer, since there's so many moving parts.  We're eventually going to do the amazing [Hartl Tutorial](http://www.railstutorial.org/), but I feel the correct 'first tutorial' is found at [Rails Girls](http://guides.railsgirls.com/).  Do 1-11 under "Welcome to Rails Girls" before you show up.
+#### Bonus
+Work through [Jumpstartlabs Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html), up through and including I3.
