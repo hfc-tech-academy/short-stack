@@ -31,6 +31,8 @@ Here's a list of places you'll need to have an account for during the course of 
 - [tumblr](http://www.tumblr.com/)
 - Hipchat, but you'll get an invite for that from us.
 
+We also recommend, especially for the bonus prep-work, signing up for an account with [Code School](http://www.codeschool.com) is not only wise, but a fun way to learn.
+
 ### Git
 Git is all about version control.  You'll be working on large projects, and some days you'll write hundreds of lines of code.  Sometimes that code will break and you'll need to go back to a working version.
 
@@ -41,6 +43,10 @@ The following three resources are a great introduction to Git:
 - [Git in Action](http://vimeo.com/16395537)
 
 # And now, the prep-work
+
+For each subject, do no less than the base by showing up.  It should be about **30 hours** of total work, so make sure to pace yourself.  The weekend before class is a terrible time to start.
+
+If you feel underwhelmed by some of the work, please feel free to tack on the bonus work.  It'll solidify your understanding of some of the core concepts before showing up.
 
 ## HTML
 #### Base
