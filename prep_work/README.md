@@ -44,7 +44,7 @@ The following three resources are a great introduction to Git:
 
 # And now, the prep-work
 
-For each subject, do no less than the base by showing up.  It should be about **30 hours** of total work, so make sure to pace yourself.  The weekend before class is a terrible time to start.
+For each subject, do no less than the base by the time you show up.  It should be about **30 hours** of total work, so make sure to pace yourself.  The weekend before class is a terrible time to start.
 
 If you feel underwhelmed by some of the work, please feel free to tack on the bonus work.  It'll solidify your understanding of some of the core concepts before showing up.
 
