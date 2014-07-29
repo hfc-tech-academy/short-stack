@@ -76,7 +76,7 @@ The weekend homework will dive you deeply into the topics that we’re covering.
 
 # Curriculum
 
-Our curriculum is structred to get you up and running quickly while constantly getting practice creating real life applications.  Before you show up, make sure you look over what you'll be doing at our [Curriculum](https://github.com/hfc-tech-academy/short_stack/tree/master/curriculum) page.
+Our curriculum is structred to get you up and running quickly while constantly getting practice creating real life applications.  Before you show up, make sure you look over what you'll be doing at our [Curriculum](https://github.com/hfc-tech-academy/short_stack/tree/master/curriculum) page.  For now, the linked respositories are locked.  Once class starts, they will open up for your perusal.
 
 # Prep-work
 
