@@ -74,6 +74,16 @@ Every day you will blog about your experience for the day.  An important way to 
 
 The weekend homework will dive you deeply into the topics that we’re covering.  Mostly they’ll have you build a project, for example a blog using Rails.  They’re important because they will solidify your understanding while giving you a look at the greater context.
 
+# Curriculum
+
+Our curriculum is structred to get you up and running quickly while constantly getting practice creating real life applications.  Before you show up, make sure you look over what you'll be doing at our [Curriculum](https://github.com/hfc-tech-academy/short_stack/curriculum) page.
+
+# Prep-work
+
+In order for the class to be working well together, we want to make sure everyone is speaking roughly the same language from Day One.  Please head over to [Prep Work](https://github.com/hfc-tech-academy/short_stack/tree/master/prep_work) and enjoy flexing your brain.
+
+
+
 # That’s It!
 
 Once again, welcome to the program!  Soon you’ll receive instructions on what to do next while you wait for day 1, but for now you should bask in the glow of knowing that you impressed us, and soon you’ll impress the world.
