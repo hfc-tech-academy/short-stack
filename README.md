@@ -4,8 +4,10 @@ Welcome to HFC’s Tech Academy!  Though we’re excited to have you, there’s 
 
 # Pair Programming
 
-> **Pair**. n. Two people who are related in some way or who do something together.
+~~~
+> **Pair**. n. Two people who are related in some way or who do something together.  
 > **Programming**. n. The act or job of creating computer programs.
+~~~
 
 Pair programming is all about programming with someone else.  The main philosophy is that two sets of eyes reduce the overall error rate, increase the speed of development, and increase the rate of learning for both participants.  
 
