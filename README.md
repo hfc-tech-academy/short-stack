@@ -4,10 +4,8 @@ Welcome to HFC’s Tech Academy!  Though we’re excited to have you, there’s 
 
 # Pair Programming
 
-~~~
 **Pair**. n. Two people who are related in some way or who do something together.  
 **Programming**. n. The act or job of creating computer programs.
-~~~
 
 Pair programming is all about programming with someone else.  The main philosophy is that two sets of eyes reduce the overall error rate, increase the speed of development, and increase the rate of learning for both participants.  
 
@@ -41,34 +39,34 @@ Our main rule is the golden one: treat others the way you’d wish to be treated
 
     However, it’s totally cool to say “Hey, I heard Amy knows how to make a modal, maybe he can show us how during lunch today.”  That’s just being awesome all around.
 
-Everyone here deserves to be heard.  If someone is speaking, no matter how important the thing you’re going to say next actually is, you wait until they’re finished.  This should probably include listening, which means that you should also stop obsessing about your very clever thing long enough to hear their words.  You look doubly silly when your next sentence has nothing to do with what they just finished saying.
+2.  Everyone here deserves to be heard.  If someone is speaking, no matter how important the thing you’re going to say next actually is, you wait until they’re finished.  This should probably include listening, which means that you should also stop obsessing about your very clever thing long enough to hear their words.  You look doubly silly when your next sentence has nothing to do with what they just finished saying.
 
-There are men and women in this world.  Don’t be surprised by the presence of either, and don’t use locker-room talk in the classroom.  Save it for when you’re home and so very very alone.  Nobody wants to hear it.  Period. 
+3.  There are men and women in this world.  Don’t be surprised by the presence of either, and don’t use locker-room talk in the classroom.  Save it for when you’re home and so very very alone.  Nobody wants to hear it.  Period. 
 
-Extend this advice to people of all protected statuses, like race, religion, sexual preference, etc.  You’re entering the big bad world here, and nothing screams low-class like explaining how you got fired for harassment over Thanksgiving dinner.
+    Extend this advice to people of all protected statuses, like race, religion, sexual preference, etc.  You’re entering the big bad world here, and nothing screams low-class like explaining how you got fired for harassment over Thanksgiving dinner.
 
-Class Expectations
+# Class Expectations
 
 You’re here to learn.  Learning takes time.  We’re going to try to prepare you to understand many things, the most important of which is being able to continue learning and solving problems long after you leave us.
 
 To that end we expect you to be present for each and every class, and to be present while you’re here.  No checking your phone except during breaks and lunch.  No playing on the internet.  While you’re here, the internet is for github, apis, stackoverflow, and similar things.  Respect the time you are spending with your partner by working on the class work during class time.
 
-Anticipated Workload
+# Anticipated Workload
 
 In addition to attending each and every class from 9 a.m. until 5 p.m. you will have homework each and every night, and each and every weekend until the class is over.  You will be given more than enough work to keep you busy nearly every waking moment.  
 
 Homework will look similar to this:
 
-Finish any unfinished work from the class. (0 - 2 hours)
-Read a set of documents. (1 - 2 hours)
-Do some homework, primarily involving some coding. (1 - 2 hours)
-Write a blog post reflecting on what you’ve learned for the day. (30 minutes)
-Submit everything to the tracker. (15 minutes)
-(optionally) Record a screencast explaining an interesting topic. (lots of time)
+1. Finish any unfinished work from the class. (0 - 2 hours)
+2. Read a set of documents. (1 - 2 hours)
+3. Do some homework, primarily involving some coding. (1 - 2 hours)
+4. Write a blog post reflecting on what you’ve learned for the day. (30 minutes)
+5. Submit everything to the tracker. (15 minutes)
+6. (optionally) Record a screencast explaining an interesting topic. (lots of time)
 
 Weekend will tack on the very important:
 
-Do a tutorial on a particular topic (8 - 12 hours)
+7. Do a tutorial on a particular topic (8 - 12 hours)
 
 There will be a good 3 to 6 hours of work to do each night, especially depending on your ability to complete work during the day.  Falling behind is not an option, since everything builds on everything else.  Most readings and homework will prepare you for the next day’s pair programming so is it important to you, and also to your partner, to keep up.
 
@@ -76,39 +74,9 @@ Every day you will blog about your experience for the day.  An important way to 
 
 The weekend homework will dive you deeply into the topics that we’re covering.  Mostly they’ll have you build a project, for example a blog using Rails.  They’re important because they will solidify your understanding while giving you a look at the greater context.
 
-That’s It!
+# That’s It!
 
 Once again, welcome to the program!  Soon you’ll receive instructions on what to do next while you wait for day 1, but for now you should bask in the glow of knowing that you impressed us, and soon you’ll impress the world.
 
 
 Matthew, Aaron, and everyone at HFC Tech Academy
-
-
-#Welcome
-You're about to embark on a rapid-fire journey into web development.  This course covers just about everything, from web design to back-end.  It's so quick we've decided to call it the short stack.  Thankfully we're close enough to Canada to enjoy some maple goodness.
-
----
-
-## Pair Programming
-
----
-
-## The Curriculum
-
-### Weeks -∞ through 0
-So before you show up, you need to work through all of the [prep-work](https://github.com/hfc-tech-academy/short_stack/tree/master/prep_work).  It's important that you understand most of the language we will be using, as well as have a general idea how to program and format your code for readability.  These things will be reinforced and expanded upon, but by strengthing yourself before showing up you'll do that much better.
-
-### HTML/CSS
-The course will start off with [HTML and CSS](https://github.com/hfc-tech-academy/html_css).
-
-### Bootstrap
-We then build upon HTML and CSS by introducing [Bootstrap](https://github.com/hfc-tech-academy/bootstrap).
-
-### Ruby
-Then we take a breather to play around in straight [Ruby](https://github.com/hfc-tech-academy/ruby).
-
-### Rails
-Next it all comes together when we add back-end development to our skillset by learning [Rails](https://github.com/hfc-tech-academy/rails).
-
-### JavaScript/jQuery
-Finally we make pages come alive with [Javascript and jQuery](https://github.com/hfc-tech-academy/javascript_jquery).
