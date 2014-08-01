@@ -10,9 +10,8 @@ Ok, so you're bringing your own computer for this class.  It's important, since 
 
 **N.B.** Think deeply about implementing a *nice clean start*.  Clearing off your computer and reinstalling the newest operating system is not only cathartic, but a great way to make sure everything works well together.
 
-~~~
-Not everyone is getting RVM installed correctly.  If you're not having much success then just check to see if you have any version of Ruby installed by loading your terminal and typing `ruby -v`.  If you've got it, then you have irb, and you're good to go.  Skip to step 2, Javascript, for now.
-~~~
+
+**N.B. #2** Not everyone is getting RVM installed correctly.  If you're not having much success then just check to see if you have any version of Ruby installed by loading your terminal and typing `ruby -v`.  If you've got it, then you have irb, and you're good to go.  Skip to step 2, Javascript, for now.
 
 1. RVM, Ruby, Rails:  
 	1. In terminal run (*mind the backslash!*) `$ \curl -sSL https://get.rvm.io | bash -s stable --ruby`.  
