@@ -74,14 +74,13 @@ Every day you will blog about your experience for the day.  An important way to 
 
 The weekend homework will dive you deeply into the topics that we’re covering.  Mostly they’ll have you build a project, for example a blog using Rails.  They’re important because they will solidify your understanding while giving you a look at the greater context.
 
-# Curriculum
+# Curriculum & Homework
 
-Our curriculum is structred to get you up and running quickly while constantly getting practice creating real life applications.  Before you show up, make sure you look over what you'll be doing at our [Curriculum](https://github.com/hfc-tech-academy/short_stack/tree/master/curriculum) page.  For now, the linked respositories are locked.  Once class starts, they will open up for your perusal.
+Our curriculum is structred to get you up and running quickly while constantly getting practice creating real life applications.  You can git an overview of the curriculum by heading over to the [Homework](https://github.com/hfc-tech-academy/short_stack/tree/master/homework) repo. 
 
 # Prep-work
 
 In order for the class to be working well together, we want to make sure everyone is speaking roughly the same language from Day One.  Please head over to [Prep Work](https://github.com/hfc-tech-academy/short_stack/tree/master/prep_work) and enjoy flexing your brain.
-
 
 
 # That’s It!
