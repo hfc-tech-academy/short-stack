@@ -55,3 +55,8 @@ This week:
 ##### Play with
 * 
 
+## Wednesday Night
+
+## Thursday Night
+
+## Weekend
