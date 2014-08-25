@@ -1,27 +1,83 @@
-# Tuesday 
+# Monday - General Instruction - CSS, SASS, etc.
 
-# Wednesday - Gitocracy
 
-Intro
+### Things to get comfortable with
 
-#### Things to get comfortable with
-##### Rails commands for today
-`rails g controller static x y z`
+#### Rails commands
 
-##### Git commands for today
-`git init`
-`git add -A`
-`git commit -m "stuffstuffstuff"`
-`git push`
-`git branch`
-`git status`
-`git diff`
+#### Git commands
 
-##### Command line commands for today
-
-##### Heroku commands for today
+#### Heroku commands
 
 ## Today's work
-###  Lay out pages using Bootstrap
-Dialogue
 
+### Title
+
+Description
+
+# Tuesday - Gitocracy
+
+### Things to get comfortable with
+
+#### Rails commands
+
+#### Git commands
+
+#### Heroku commands
+
+## Today's work
+
+### Title
+
+Description
+
+# Wednesday - Daft Magazine
+
+
+### Things to get comfortable with
+
+#### Rails commands
+
+#### Git commands
+
+#### Heroku commands
+
+## Today's work
+
+### Title
+
+Description
+
+# Thursday - Forum
+
+
+### Things to get comfortable with
+
+#### Rails commands
+
+#### Git commands
+
+#### Heroku commands
+
+## Today's work
+
+### Title
+
+Description
+
+# Friday - 
+
+
+### Things to get comfortable with
+
+#### Rails commands
+
+#### Git commands
+
+#### Heroku commands
+
+## Today's work
+
+### Title
+
+Description

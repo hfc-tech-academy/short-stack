@@ -37,7 +37,21 @@ This week:
 * [`rails new`](https://github.com/hfc-tech-academy/tutorials/blob/master/rails/command_line/rails_new.md)
 * [`rails g controller`](https://github.com/hfc-tech-academy/tutorials/blob/master/rails/controller/rails_g_controller.md)
 
+# Git
+
+##### Read
+* Chapter 1 from [Pro Git](http://git-scm.com/book)
+
+##### Play with
+*  
 
 ## Tuesday Night
 
+# Git 
+
+##### Read
+* Chapter 2 from [Pro Git](http://git-scm.com/book)
+
+##### Play with
+* 
 
