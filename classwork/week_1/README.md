@@ -11,14 +11,14 @@ Today we will:
 
 #### Rails commands for today
 
-`rails new playground`
-`rails g controller`
+* `rails new playground`
+* `rails g controller`
 
 #### Git commands for today
 
-`git init`
-`git add -A`
-`git commit -m "stuffstuffstuff"`
+* `git init`
+* `git add -A`
+* `git commit -m "stuffstuffstuff"`
 
 # Wednesday - Gitocracy
 
@@ -28,15 +28,15 @@ Intro
 
 #### Rails commands for today
 
-`rails g controller`
+* `rails g controller`
 
 #### Git commands for today
 
-`git clone`
-`git push`
-`git branch`
-`git status`
-`git diff`
+* `git clone`
+* `git push`
+* `git branch`
+* `git status`
+* `git diff`
 
 #### Command line commands for today
 
@@ -52,5 +52,38 @@ We're pair programming, so make sure that one of you is typing, and the other is
 
 ###  Lay out pages using Bootstrap
 
-# Thursday - 
+# Thursday - Daft Magazine
+
+
+### Things to get comfortable with
+
+#### Rails commands
+
+#### Git commands
+
+#### Heroku commands
+
+## Today's work
+
+### Title
+
+Description
+
+# Friday - Forum
+
+
+### Things to get comfortable with
+
+#### Rails commands
+
+#### Git commands
+
+#### Heroku commands
+
+## Today's work
+
+### Title
+
+Description
+
 
