@@ -88,4 +88,4 @@ In order for the class to be working well together, we want to make sure everyon
 Once again, welcome to the program!  Soon you’ll receive instructions on what to do next while you wait for day 1, but for now you should bask in the glow of knowing that you impressed us, and soon you’ll impress the world.
 
 
-Matthew, Aaron, and everyone at HFC Tech Academy
+Everyone at HFC Tech Academy
