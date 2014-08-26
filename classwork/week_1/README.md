@@ -12,7 +12,7 @@ Today we will:
 #### Rails commands for today
 
 * `rails new playground`
-* `rails g controller`
+* `rails g controller controller_name first_page second_page etc_page`
 
 #### Git commands for today
 
@@ -25,10 +25,15 @@ Today we will:
 * `ls`, `cd`
 * `touch file_name` (or, in windows `type nul > file_name`)
   * **N.B.** `type nul > file_name` is a great way (read: horrible way) to overwrite data in an existing file.  You should probably just use your file editor to create new files.
+  
+## Instructions
 
 # Wednesday - Gitocracy
 
-Intro
+Today we will:
+
+* Practice cloning an exising repository
+* Setting up local 
 
 ### Things to get comfortable with
 

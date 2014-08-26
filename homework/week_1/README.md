@@ -14,12 +14,14 @@ This week:
 ### MVC
 
 ##### Read & Play with
+
 * [Model-View-Controller](https://github.com/hfc-tech-academy/tutorials/blob/master/rails/general/rails_mvc.md)
 * [MVC in practice](https://github.com/hfc-tech-academy/tutorials/blob/master/rails/general/rails_mvc_example.md)
 
 ### Bootstrap
 
 ##### Read & Play with
+
 * [Bootstrap Grid Introduction](http://www.helloerik.com/bootstrap-3-grid-introduction)  
 * **N.B.** that the previous article uses LESS, where we will use SASS.
     * See: [Sass And LESS: An Introduction To CSS Preprocessors](http://www.vanseodesign.com/css/css-preprocessors/) 
@@ -30,30 +32,60 @@ This week:
 ### Rails
 
 ##### Read & Play with
+
 * [`rails new`](https://github.com/hfc-tech-academy/tutorials/blob/master/rails/command_line/rails_new.md)
 * [`rails g controller`](https://github.com/hfc-tech-academy/tutorials/blob/master/rails/controller/rails_g_controller.md)
 
 ### Git
 
-##### Read
+##### Read 
+
 * Chapter 1 from [Pro Git](http://git-scm.com/book)
 
+### Command Line
+
+##### Read
+
+* [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+
 ## Tuesday Night
-
-### Bootstrap
-
-##### Read & Play with 
 
 ### Git 
 
 ##### Read
+
 * Chapter 2 from [Pro Git](http://git-scm.com/book)
 
 ##### Play with
+
 * 
 
 ## Wednesday Night
 
+### SASS
+
+##### Read
+
+* The official [SASS Basics](http://sass-lang.com/guide).
+
+##### Play with
+
+* Use [JSFiddle](http://jsfiddle.net/) to practice a bit of SASS.  On the left, under languages, change CSS to SCSS.
+
 ## Thursday Night
 
 ## Weekend
+
+Next week there will be a focus on utilizing CSS to make projects look better.  This will require familiarity with CSS, as well as SASS. 
+
+### CSS
+
+##### Read
+
+* The W3 organization has a nice overview of [CSS Basics](http://www.w3.org/wiki/CSS_basics).  Remember to play along at [JSFiddle](http://jsfiddle.net/).
+
+### Git
+
+##### Read 
+
+* Chapter 3 from [Pro Git](http://git-scm.com/book)
