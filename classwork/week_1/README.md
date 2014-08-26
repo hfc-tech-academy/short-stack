@@ -20,6 +20,12 @@ Today we will:
 * `git add -A`
 * `git commit -m "stuffstuffstuff"`
 
+#### Command line commands for today
+
+* `ls`, `cd`
+* `touch file_name` (or, in windows `type nul > file_name`)
+  * **N.B.** `type nul > file_name` is a great way (read: horrible way) to overwrite data in an existing file.  You should probably just use your file editor to create new files.
+
 # Wednesday - Gitocracy
 
 Intro
